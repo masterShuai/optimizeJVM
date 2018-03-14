@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="002c8aef-f114-408d-a0f3-1d8b77d777d3" name="Default" comment="ignore file">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/jvm/overflow/StackOverflowTest.java" />
+    <list default="true" id="002c8aef-f114-408d-a0f3-1d8b77d777d3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
@@ -51,16 +51,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
               <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -240,6 +230,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\optimizeJVM\optimizeJVM" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\optimizeJVM\optimizeJVM" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -333,7 +331,7 @@
       <workItem from="1521024503263" duration="172000" />
       <workItem from="1521024689722" duration="651000" />
       <workItem from="1521026197841" duration="16000" />
-      <workItem from="1521031360597" duration="1143000" />
+      <workItem from="1521031360597" duration="1190000" />
     </task>
     <task id="LOCAL-00001" summary="ignore file">
       <created>1521031453958</created>
@@ -349,11 +347,25 @@
       <option name="project" value="LOCAL" />
       <updated>1521031511152</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ignore file">
+      <created>1521033175481</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1521033175481</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ignore file">
+      <created>1521033198755</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1521033198755</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3126000" />
+    <option name="totallyTimeSpent" value="3173000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
