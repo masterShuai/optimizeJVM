@@ -10,7 +10,7 @@ import java.util.List;
  * @Date: Created in 18:05 2018/3/14
  * @Modified By:
  */
-public class HeapOverFlowTest {
+public class HeapOutOfMemoryTest {
 
     static class OOMObject {
     }

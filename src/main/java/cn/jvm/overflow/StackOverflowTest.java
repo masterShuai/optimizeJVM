@@ -7,4 +7,21 @@ package cn.jvm.overflow;
  * @Modified By:
  */
 public class StackOverflowTest {
+
+    private int stackLength = 1;
+
+    public void stackLeak() {
+        stackLength ++;
+        stackLeak();
+    }
+
+    public static void main(String[] args) throws Throwable {
+        StackOverflowTest sot = new StackOverflowTest();
+        try {
+            sot.stackLeak();
+        }catch (Throwable e){
+            System.out.printf("stack length:" + sot.stackLength);
+            throw e;
+        }
+    }
 }
